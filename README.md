@@ -2,7 +2,7 @@
 
 > A considered, full-stack e-commerce experience built with core PHP, MySQL, CSS, and vanilla JavaScript.
 
-ShopSphere is a portfolio-ready online store for thoughtfully selected everyday products. It includes a responsive storefront, customer accounts, shopping tools, checkout, order history, reviews, returns, and an admin dashboard for managing the store.
+ShopSphere is a online store for thoughtfully selected everyday products. It includes a responsive storefront, customer accounts, shopping tools, checkout, order history, reviews, returns, and an admin dashboard for managing the store.
 
 Built by **Nikhil Patil** as part of [developwithnikhil.com](https://developwithnikhil.com).
 
@@ -89,4 +89,4 @@ This is a demonstration project, not a production-ready commerce deployment. Bef
 
 ## License
 
-This project is published as a portfolio demonstration. Add a license here if you plan to permit reuse or redistribution.
+This project is published as a portfolio projects demonstration. Add a license here if you plan to permit reuse or redistribution.
