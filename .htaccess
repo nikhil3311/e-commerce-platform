@@ -1,0 +1,4 @@
+Options -Indexes
+<FilesMatch "^(database\.sql|\.env|composer\.json)$">
+    Require all denied
+</FilesMatch>
