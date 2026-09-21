@@ -86,7 +86,3 @@ This is a demonstration project, not a production-ready commerce deployment. Bef
 **Nikhil Patil** builds practical web experiences and full-stack projects.
 
 - Portfolio: [developwithnikhil.com](https://developwithnikhil.com)
-
-## License
-
-This project is published as a portfolio projects demonstration. Add a license here if you plan to permit reuse or redistribution.
