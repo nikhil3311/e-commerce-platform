@@ -19,7 +19,7 @@
             <form class="newsletter" action="<?= $base ?>api/newsletter.php" method="post"><input type="email" name="email" placeholder="Email address" required><button class="button button-dark">Join</button></form>
         </div>
     </div>
-    <div class="container footer-bottom"><span>© <?= date('Y') ?> Nikhil Patil | developwithnikhil.com</span><span>Built with care · Secure checkout</span></div>
+    <div class="container footer-bottom"><span>© <?= date('Y') ?> Nikhil Patil - All Rights Reserved. | developwithnikhil.com</span><span>Built with care · Secure checkout</span></div>
 </footer>
 <script src="<?= $base ?>assets/js/app.js?v=2"></script>
 </body>
